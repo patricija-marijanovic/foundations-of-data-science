@@ -1,0 +1,13 @@
+WEATHERNAME,total_fatalities,percent_of_total
+Clear,24558,71.94796824187736
+Cloudy,5374,15.744294377874784
+Rain,3039,8.903407259836522
+Snow,415,1.21583218586119
+"Fog, Smog, Smoke",398,1.1660270119825389
+Reported as Unknown,146,0.4277385521342982
+Sleet or Hail,74,0.216798992177658
+Severe Crosswinds,56,0.16406410218849793
+Blowing Snow,35,0.10254006386781121
+Freezing Rain or Drizzle,27,0.07910233498374007
+"Blowing Sand, Soil, Dirt",11,0.03222687721559781
+Total (excluding Unknown/Other/Not Reported),34133,100.0
